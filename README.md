@@ -1,1 +1,1 @@
-Code of [https://adventofcode.com](https://adventofcode.com), just for run😄
+Code of [https://adventofcode.com](https://adventofcode.com), just for `*`
